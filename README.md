@@ -5,7 +5,8 @@
 
 # TypeScript
 
-[![Join the chat at https://gitter.im/Microsoft/TypeScript](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Microsoft/TypeScript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/Microsoft/TypeScript](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Microsoft/TypeScript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsweetca%2FTypeScript.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsweetca%2FTypeScript?ref=badge_shield)
+
 
 [TypeScript](https://www.typescriptlang.org/) is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. Try it out at the [playground](https://www.typescriptlang.org/play/), and stay up to date via [our blog](https://blogs.msdn.microsoft.com/typescript) and [Twitter account](https://twitter.com/typescriptlang).
 
@@ -97,3 +98,7 @@ node built/local/tsc.js hello.ts
 ## Roadmap
 
 For details on our planned features and future direction please refer to our [roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsweetca%2FTypeScript.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsweetca%2FTypeScript?ref=badge_large)
